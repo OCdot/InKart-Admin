@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "322352427605",
+    "firebase_url": "https://inkart-ffe55-default-rtdb.firebaseio.com",
+    "project_id": "inkart-ffe55",
+    "storage_bucket": "inkart-ffe55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322352427605:android:7cf93c94a7d0134af89adc",
+        "android_client_info": {
+          "package_name": "com.inkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322352427605-9gk38jrju0c8bpi025mg5nksgj6al6mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inkart",
+            "certificate_hash": "0e42f69c321167c50986183ebda9d36159497632"
+          }
+        },
+        {
+          "client_id": "322352427605-3v0jde7bccua57rom2do3up6jhp30fpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmVcbpj3hWCQPMp-KkFFmv461zFo1VAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322352427605-3v0jde7bccua57rom2do3up6jhp30fpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322352427605:android:cea82d86da100b15f89adc",
+        "android_client_info": {
+          "package_name": "com.inkartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322352427605-3v0jde7bccua57rom2do3up6jhp30fpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmVcbpj3hWCQPMp-KkFFmv461zFo1VAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322352427605-3v0jde7bccua57rom2do3up6jhp30fpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
